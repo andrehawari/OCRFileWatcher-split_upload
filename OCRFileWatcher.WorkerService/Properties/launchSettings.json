@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "OCRFileWatcher.WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

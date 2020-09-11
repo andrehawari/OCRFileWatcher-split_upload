@@ -1,0 +1,12 @@
+MR No: MRCCE. 00-16-73-12/ DOB: 14-Mar-1900 (39y 11s 27d
+CPA2003120006 12-Mar-2020 09:19
+MCU DOCTOR / ADM-MRT JAKARTA
+aVR.
+V5
+10n/pV
+25/s
+10mm/kV
+...i ---
+Filter : DF
+Conținuous
+FX-8322 (CE)-VO3-02
